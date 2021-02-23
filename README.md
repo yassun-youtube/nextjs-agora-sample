@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# agora のビデオ通話を Next.js で動かしたサンプル
+
+YouTube動画で解説した内容です。
+https://www.youtube.com/watch?v=8faMe88Fo4U
 
 ## Getting Started
 
